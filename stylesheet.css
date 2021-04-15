@@ -6,7 +6,7 @@
       linear-gradient(to top left, #304352, transparent),
       linear-gradient(to top right, #1F1C18, transparent);
   background-blend-mode: screen;
-      width: 320px !important;
+      width: 100vw !important;
       margin-top: 0;
       margin-left: auto ;
       margin-right: auto ;
